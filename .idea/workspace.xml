@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23d2510d-f1ed-46a7-bf85-678943dec08a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/进程和线程/js是单线程.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/面向对象--继承/constructor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/面向对象--继承/hasOwnPrototype和in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/面向对象--继承/isPrototypeOf和instanceof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/面向对象--继承/业界公认继承--寄生式继承案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/面向对象--继承/原型链.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JS高级/面向对象--继承/自定义对象类型判断.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/.idea/pdd_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/data/goods_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/data/homecasual.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/data/homenav.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/data/recommend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/data/recommend_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/data/search.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/data/shopList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/data/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/db/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/active_sign_in2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/center_banner.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/nav_icon16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/home/s9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/038eb41c80aae75b7c1343e4b7b2bc01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/05a70349438588950f50b8bc717d0987.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/07c6bca28e628b77e010d17ea0c18732.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/09d56e388314120bec2f6cb0b4da0179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/0c7717ca29adb225b7bedf43565e36e1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/0c96c40fa841251f6ab94dd15801717a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/0d34195f7a29873fdedf11e812dcf2fd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/0e0dde4d453543b88a9c5c6e85cdaaba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/10c63beff8c75e43ce86e12bf3eb2b4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/1296967c0a842460a852ad7280e43bac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/130fca0a1536f31021b84b048c34c92e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/163857a02c69fae18f2f2e5f79d6d65a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/199c415f4fc3c030b8623625655fc82c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/1ad3e18be88873e82b68c8a8a8e80133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/1e27df90f995085ae9de20cf9f66204f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/1ee28c9d5a60f6c55c7ccca8b65e77de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/1ef7469b4175b3398c77dc0da693a89a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/1f00ccae55442d8f6e43e0f32cbcdbbd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/1f8ac68713ba19c0e28d4ac918d79e8a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/23c0549881edcafea7d3bd901b2caedd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2548fb09335f9cb9e14978a897e9e377.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/26d9be788f133f0b59f4bea225744c66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2836f07129f18a531f20beb1a28895ae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2a0779f49285c4f41312998d1c40c50d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2a2a8fe77f59f2ce5c8db08b1fd6906a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2c4e09be13e6b95bc94028fb04c0a75b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2d7cfc5adcd71c4e26f370dc9ca8f533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2f941115e20da02e955e0bd10ddc70d3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2f94abce3d468cc6192f5a873490c9d5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/2f97c34c3e95436e71147321ffdf4bd3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/34e89c3fb7c2d7dfd8ec1d547388c3d0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/355400b815b77c15a071fed5545fc690.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/35b18597fb6730742d42ab80a6128167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/363adad8271a25e42c8e13b05cb884e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/3961dbd3aa3a8affa224c644e977bed1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/3b9b3d8701c743c46a72c371ce2ee7ce.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/3c08b00812263507a712ce9540d5e500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/3ca263213a954530a26a7dc6098ace2f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/3d6008bf0327be41e1368286734f3087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/42cd2e741f1da77174e915308af3da85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/45731fe5eacdfe425c4f7b910773ca2f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/45a23db862739d083c768331696c2604.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/46136ebb4bed80393dc798965c92bae5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/4673baf7f9c89ed1adc977ee1166e60f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/4a581f7b6f6d55f5afdef7de5487a2bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/4ca61ccafb3388b900d0bf51fd51b363.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/4cc3fa43dcaeaefe08438700f425c368.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/4e610ead665957ea876560265d1ef74e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/5128dd0290fb4b150de7e47454494f7e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/51903f063d3cf2d01fe4f2eceed714a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/51d2fdae6168765f8c0b588d70250d03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/52c45ff4fab65383dc7cb2efc465f2f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/55c023de1c45cec96fb8092bb5fbe4fc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/5729ea6437bf9a496bbf5748aca8ad96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/57fc9138367cfb98de7b80674b1ae8e0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/5940113771a0c23a26bbc6ab8bb3729d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/5ac326275632de290898cb8149f7442d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/5e2c58d6e43c37708e68ff9c751f4350.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/5e526ff63119c937684b886902d7aff0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/5f6577429b33b31053ec7e8223e9740b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/61e4f951b27049da5bc338b43c382553.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/63fc4d5ae656f409ac35d4fad3420d31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/64c5618eab67d719475abb6d92078259.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/65de7af02e3ce1a9a11ea4633a0945cd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/677621819aa45233e38d319907998afd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/68b905373898f1e6c5ec283066f5369e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/68db96b9adb904bc758737724f30b71e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/696220370dbce10624c5609a4084af76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/6b86182843b8c86c23f3858d1d2652c0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/71f8706a5e36fd4947623d0369917f6d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/738a099643ce15cc03ded33f62b21d2b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/73b72c801ad0d60e3e95eabd92dc9ba2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/74a6b515541de2d9ca14429cbc6fe8b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/75705d468aa86bef588dec3e7b90d986.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/76fe6505fe9cea546a55bbdceec684a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/789adda54a190562a33fe8b1965f7e3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/78af7cc0e003ad5a62320e222d049333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/7a2b7f3ce29aa9cc67da1557ae65a2d6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/7b047fa5e4e58581eb22976083a5c328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/7cb34ee25fb0674e9c4b60af2228ef99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/80b34919b15a3b3cadade885782668f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/821d2288f445948f64d95a2b6149ca34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/83dd933ea9c7f99235d9085956471653.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/88b8ba9455d2385c768db73b03e90ee2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/89cc9e26e1333cdbdbe8abf938a14ebe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/8a04570beb01061b54b702ec6a81d41e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/8b6958224956427dcd9d5089e5c9a5fe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/8c3d5d13d07132e9ddd013ff74c76e49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/8e6f4725caf7307ae20d858e31afbcc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/90482819c22442541c83bfc229bac9a5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/90e3d9f42426e09e6d22cad32e546158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/91d18c17d6de7b8ce37a175c5c406bf1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/9251d6193fd66df10037261c5717b7f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/938e02678812bd73c9b87c42d7c78e5b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/93bbd0a00fcd11ca8e2ff520b5b7321a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/94c5f56dc96a2e5c95e38bb70c682634.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/963edf6306ddaa99f1cd407542bbdf81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/998726dccdd524a3c601c58328ed7bbe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/9a37b78189a241c184b79505d391d425.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/9c6365273e70e4de6a6655a24e913645.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/9c694f7f124dd45099e6ab26a1587d40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/9c8fbf2be5caf83b3e0236e5a6c12e23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/9cb7b68e7dba3c20b63197397d91ce56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/9cd0896aabc077cf4574c25ef81f8303.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a02341465c64dd6ded73c435c07852d5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a134494dc546b263906c21a2ed923344.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a13b90d8a2e8ddb934cf39623ee8a7ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a1c18eb4aff91c8aa6e52e1e0a906e66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a3cde5c4092acdfa8f1d53f35f0e2300.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a47cb57fe0c525dcd0fe610c106ce0c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a4a2225345cb4bbe84e40e47c7247fe1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a6e84b0a045abfcce03faa204fa6e1b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/a99856ad6fa5e41bd708bf5197372dee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/aa42e50789a3bd4e79e7149989b289ff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/abf3d2b9a39be79369e4e1c8ced0c1fe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/abfb614648fb0f4f4f26ce3d7a6771f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/ad0ddf64dd90d2a52629f4c07f996ab7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/aefb6b1b8add6a09d2dc25a4cc19e03c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/af9ed87148b0ffa0a4ba686891ef7485.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/afde4c11bb62ff0c1c758a5467c9dc96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/b083d02727dd1e8fca4e359de4c7c21a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/b105bcde574772d780a9e706ae63954b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/b15b14fd1e2f292d9ceabc4abf40e406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/b5792b7538e9a9580de59424df9e116f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/b613fcfa7000fc05491129428ff66459.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/b8dd095d787360d8d680b8ad089a435b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/be28fb895d23b7942b9e2a559b213ac9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/be6a716479fc666d6f5a611599aeb4ec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/bf5ad345780fdcdaec0f6202d81cbeae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c0318617ddea7d3235392a52f0b6e491.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c0dd3be9c6b7826087a43c689bdfb85d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c1c17cb41d353de33c819820ef68277f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c1f943711a755d2107c07215d8825c7e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c4fb3a8a8f456a05ab7e421031badbfa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c60a121d6d0dd20c9ab50f9d29ff3311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c7a37f7d83e2f1d93ff615e6cb636138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c8f4c0935fa91a8595ed789a3f2e1a05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/c9a463e9e5774cee64612de3d7fdf425.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/ccc2baf4cad5665c3164d86558f7c8ee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/d1f7030d917116f240189462ef1e5e38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/d20277963ff3ac7b837cb4beb6390d7e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/d44efb2d9937fb22decde8b999b948a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/d621a9d233902947a7f6c181f21de096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/d7b0b72045c12c197dc68bf8b123aae7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/d910be59d054c0a140cb8c0f28e792f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/d91749bb63c4d43ec2df8ec8c478d7e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/d9e4b2d88b6011bfa7cb970ba77fd623.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/da0de61057cb9697f56b0ce17dd709f6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/de28426d51f8241688c7626a1665873a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/de77de9e5dff1360d1e4a902d3f29ddc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/dfd7a2efe9a0e29acbfede4576c94604.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/dfe3a51d3d67b791a1f88a9a3fde3897.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/e10129469a3f72146b453738071aff60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/e2da69a263450341db298e23817f74a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/e3eb82ea4b01b12e45f034a643e42349.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/e703dae570f3ea6edcbda4d50420436d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/e94c9f2ce9941db00c444c1e70f4a336.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/e9987dd35dae03928838a537bff0efdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/e99c260bf65d8a0654e363e20df146cf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/ed11b879884a09a1de845d163363cec0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/ee96efa4f350b8f205be541636f404bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/ef17d6c193e0617a7b74354af6578e23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/ef5c48f6ff12fe5468c5973e757afa83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/f0b2c21938d3bc3b99100bd9b84f12e6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/f6cdcb880776f983d9aa2274538ea9a8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/f777d4c9363f0c23d9103930b51b7de4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/f7b237ce64dc82dc5d61427952a811ca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/f7bd831b71565891a66b4149a8f0ed7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/faeda76f8fccc3cd5b9a9086e95955a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/fd58e5824af10d51e10bdc094d23b8a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/pdd_api/public/images/search/fe382a3aaff9cccc74dcd95bc78af735.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Foodie/src/components/header/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Foodie/src/components/header/header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/Dome1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/Dome1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/ES6-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/ES6-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/axios.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/axios.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/promise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/components/commter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/components/commter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/views/GoodsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/views/GoodsList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/views/Image.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/views/Image.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/views/Title.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/views/Title.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/views/cart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/src/views/cart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/vue-resource.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/DOME/demo3/vue-resource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Umbrella001/Umbrella/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../b0ifnz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/api/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/api/recommend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/common/js/jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/components/music-header/music-header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/components/rank/rank.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/components/recommend/recommend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/components/search/search.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/components/singer/singer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../music/src/components/tab/tab.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd/小练习/todolist实现任务清单.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd/小练习/todolist实现任务清单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd/小练习/动态组件的插槽使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd/小练习/动态组件的插槽使用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd/小练习/增删动画.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd/小练习/增删动画.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd/小练习/第三方动画库.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd/小练习/第三方动画库.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/components/Footer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/components/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/components/Item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/components/Item.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/components/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/components/List.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/action.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/getters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/mutation-type.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/mutation-type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pdd_demo/pdd_demo/src/store/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../vuepdd/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../vuepdd/um_pdd/src/main.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>VAR</find>
+      <find>228942174</find>
+      <find>48367210</find>
+      <find>console.log</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>let</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bin/www" />
+        <option value="$PROJECT_DIR$/data/recommend_last.json" />
+        <option value="$PROJECT_DIR$/data/test.json" />
+        <option value="$PROJECT_DIR$/data/recommend1.json" />
+        <option value="$PROJECT_DIR$/data/recommend.json" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/db/db.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="104" />
+    <option name="width" value="1260" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pdd_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd_api" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd_api" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd_api" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yejianhua\Desktop\Vue项目实战\商城项目\Day5\服务器\pdd_api" />
+      <recent name="C:\Users\yejianhua\Desktop\Vue项目实战\商城项目\Day5\服务器\pdd_api\data" />
+      <recent name="C:\Users\yejianhua\Desktop\Vue项目实战\商城项目\Day5\服务器\pdd_api\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yejianhua\Desktop\Vue项目实战\商城项目\Day5\服务器\pdd_api\public\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="www" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="www" working-dir="$PROJECT_DIR$/bin">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.www" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23d2510d-f1ed-46a7-bf85-678943dec08a" name="Default" comment="" />
+      <created>1536800285492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536800285492</updated>
+      <workItem from="1536800286826" duration="22590000" />
+      <workItem from="1536841269952" duration="30885000" />
+      <workItem from="1536965558130" duration="20983000" />
+      <workItem from="1537094490009" duration="21000" />
+      <workItem from="1538356263937" duration="205000" />
+      <workItem from="1538358005970" duration="2214000" />
+      <workItem from="1538384182555" duration="9135000" />
+      <workItem from="1538779552227" duration="43000" />
+      <workItem from="1553787597148" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87560000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="15" y="104" width="1260" height="806" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0720339" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/goods_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/homecasual.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/recommend_last.json" />
+    <entry file="file://$PROJECT_DIR$/data/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Sequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/recommend1.json" />
+    <entry file="file://$PROJECT_DIR$/data/recommend.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/sms_util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="51" column="7" lean-forward="true" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+          <folding>
+            <element signature="e#3893#4248#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -15,7 +15,7 @@
     "express-session": "^1.15.6",
     "http-errors": "~1.6.2",
     "js-base64": "^2.4.9",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "morgan": "~1.9.0",
     "mysql": "^2.16.0",
     "request": "^2.88.0",
